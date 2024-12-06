@@ -52,9 +52,6 @@
 - **🌍 [Translator](https://apps.apple.com/in/app/translate-native-ai-translator/id1517982329)**  
   A translation app supporting text, voice, and photo translations across 60+ languages with advanced features like real-time bilingual conversations.
 
-- **🚚 [Passon](https://apps.apple.com/sa/app/pass-on/id1536751466)**  
-  A delivery app enabling fast and reliable shipment of items, with features for both senders and drivers to optimize logistics.
-
 - **🎫 [EZ Ticket](https://apps.apple.com/in/app/eztickets/id1494674322)**  
   A mobile ticketing system allows users to buy, sell, and access event tickets seamlessly, with unique features like indie event discovery and ticket reselling.
   
