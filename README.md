@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-👋 Hi, I’m Jinil Patel
+👋 Hi, I’m Jinil Patel!
 
 🚀 iOS Developer | Mobile Application Developer | Swift | SwiftUI | Objective-C | IOS | Android | Java | Kotlin | Flutter | React-Native
 
@@ -8,7 +8,7 @@
 
 📱 Crafting user-focused, scalable, and innovative mobile applications
 
-I'm passionate about iOS development, as I love the combination of creative and logical problem-solving skills it requires. I am always eager to learn new things and improve my craft. I aim to create intuitive and innovative apps that enhance the user experience and solve real-world problems.
+I'm passionate about iOS development, as I love the combination of creative and logical problem-solving skills it requires. With 5+ years of experience, I am always eager to learn new things and improve my craft. I aim to create intuitive and innovative apps that enhance the user experience and solve real-world problems.
 
 ## 🛠 Skills
 
@@ -22,6 +22,9 @@ I'm passionate about iOS development, as I love the combination of creative and 
 | **🔧 Tracking/Other Tools** | GitHub, Bitbucket, REST API, Postman, JIRA, Trello, Zoho, Basecamp, Gradle, Microservices, OAuth2, Xcode, Visual Studio, Android Studio, OOPS concepts, Algorithms, Data structures, Database management, Systems Design, UnitTest, XCTest, Fastlane, XCode Cloud, Keychain services, Accessibility/VoiceOver compliance, CI/CD tools, Multithreaded applications |
 | **🌟 Soft Skills**          | Time management, Leadership, Management, Problem-solving, Decision Making, Documentation and Presentation, Verbal communication                                                                                                                                                                                                                                  |
 | **🖥️ Operating Systems**     | Windows, Linux, Mac                                                                                                                                                                                                                                                                                                                                              |
+
+## 🌟 Projects
+
 
 ## 📞 Contact
 
