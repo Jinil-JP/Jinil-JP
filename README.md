@@ -1,14 +1,14 @@
 ## 🚀 About Me
 
-👋 Hi, I’m Jinil Patel!
+👋 Hi, I’m **Jinil Patel**!
 
 🚀 iOS Developer | Mobile Application Developer | Swift | SwiftUI | Objective-C | IOS | Android | Java | Kotlin | Flutter | React-Native
 
-🌍 Based in Toronto, Canada
+🌍 Based in **Toronto, Canada**
 
 📱 Crafting user-focused, scalable, and innovative mobile applications
 
-I'm passionate about iOS development, as I love the combination of creative and logical problem-solving skills it requires. With 5+ years of experience, I am always eager to learn new things and improve my craft. I aim to create intuitive and innovative apps that enhance the user experience and solve real-world problems.
+💻 I'm passionate about iOS development, as I love the combination of creative and logical problem-solving skills it requires. With 5+ years of experience, I am always eager to learn new things and improve my craft. I aim to create intuitive and innovative apps that enhance the user experience and solve real-world problems.
 
 ## 🛠 Skills
 
